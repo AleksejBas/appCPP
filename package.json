@@ -1,0 +1,11 @@
+{
+  "name": "newcpp",
+  "version": "1.0.0",
+  "description": "<!-- Что нужно знать и основные задачи -->",
+  "main": "app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
